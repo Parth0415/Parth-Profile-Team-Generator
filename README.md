@@ -31,11 +31,11 @@ npm i
 
 ## Usage
 
-watch the [video demonstration]()
+watch the [video demonstration](https://drive.google.com/file/d/1AWw4CWU4POLc4u1SBw21Gqmrc4wYieR6/view)
 
 ## Screenshot
 
-(./dist/images/Parth-Team-Profile-Generator.png)
+![Web Page Overview](./dist/images/Parth-Team-Profile-Generator.png?raw=true "Web Page Overview")
 
 ## Test
 
