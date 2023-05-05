@@ -37,7 +37,7 @@ watch the [video demonstration](https://drive.google.com/file/d/1AWw4CWU4POLc4u1
 
 ## Screenshot
 
-![Web Page Overview](./dist/images/Parth-Team-Profile-Generator.png?raw=true "Web Page Overview")
+![Challenge 10](./dist/images/Parth-Team-Profile-Generator.png?raw=true "Challenge 10")
 
 ## Test
 
