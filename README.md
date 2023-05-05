@@ -2,9 +2,10 @@
 
 ## Description
 
-The Profile Team Generator application helps company to build a team profile which includes manager, engineers and interns and summaries the information of each person with there work title.<br />
-User will be provided with prompts to enter information about there employees which help them to create team by entering each person profile step by step. At very last when user will done editing team he can display team profile on a web browser with the help of index.html <br />
-Application uses [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for collecting input from the user.
+The Profile Team Generator application helps company to build a team profile which includes manager, engineers and interns and summaries the information of each person with there work title.
+
+User will be provided with prompts to enter information about there employees which help them to create team by entering each person profile step by step. At very last when user will done editing team he can display team profile on a web browser with the help of index.html 
+
 
 ## Table of contents
 
@@ -21,7 +22,7 @@ Application uses [Jest](https://www.npmjs.com/package/jest) for running the unit
 For installation, clone the GitHub repository [Parth-Profile-Team-Generator](https://github.com/Parth0415/Parth-Profile-Team-Generator.git).
 Then go to the file location, open file with the help of terminal:
 
-To install dependencies, run the following command:
+To install dependencies, please run the following command:
 ```
 npm i
 ```
@@ -30,7 +31,13 @@ After that run the following command:
 ```
 node script.js
 ```
+## Test
 
+To run a test, run the following command:
+
+```
+npm test
+```
 ## Usage
 
 watch the [video demonstration](https://drive.google.com/file/d/1AWw4CWU4POLc4u1SBw21Gqmrc4wYieR6/view)
@@ -39,13 +46,6 @@ watch the [video demonstration](https://drive.google.com/file/d/1AWw4CWU4POLc4u1
 
 ![Challenge 10](./dist/images/Parth-Team-Profile-Generator.png?raw=true "Challenge 10")
 
-## Test
-
-To run a test, run the following command:
-
-```
-npm test
-```
 
 ## Contribution
 
