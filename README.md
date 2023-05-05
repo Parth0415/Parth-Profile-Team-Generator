@@ -19,14 +19,16 @@ Application uses [Jest](https://www.npmjs.com/package/jest) for running the unit
 ## Installation
 
 For installation, clone the GitHub repository [Parth-Profile-Team-Generator](https://github.com/Parth0415/Parth-Profile-Team-Generator.git).
-Then go to the file location, open file with the help of terminal and run the following command:
-```
-node script.js
-```
+Then go to the file location, open file with the help of terminal:
 
 To install dependencies, run the following command:
 ```
 npm i
+```
+
+After that run the following command:
+```
+node script.js
 ```
 
 ## Usage
